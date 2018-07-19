@@ -20,4 +20,4 @@ simple-test文件：简单测试
 
 版本：jdk-1.8；springboot-2.0.3；springcloud-Finchley.RELEASE
 
-注意：springcloud版本不同，Eureka和Ribbon的jar名称也不同
+注意：springcloud版本不同，Eureka、Ribbon和Feign的jar名称也不同
